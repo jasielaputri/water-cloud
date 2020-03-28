@@ -2,7 +2,7 @@
 require 'database.php';
 
 
-$result = mysqli_query($conn,"SELECT * FROM karyawan");
+$result = mysqli_query($conn, "SELECT * FROM karyawan");
 ?>
 <!DOCTYPE html>
 <html>
